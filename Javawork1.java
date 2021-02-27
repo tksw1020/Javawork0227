@@ -1,6 +1,6 @@
 package javastudy1;
 
-public class Javawork4 {
+public class Javawork1 {
 
 	public static void main(String[] args) {
 		// TODO 九九の表を作る iがかけられる数　ｊがかける数
