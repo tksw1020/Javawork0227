@@ -3,67 +3,67 @@ package javastudy1;
 public class Javawork6 {
 
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO è‡ªå‹•ç”Ÿæˆã•ã‚ŒãŸãƒ¡ã‚½ãƒƒãƒ‰ãƒ»ã‚¹ã‚¿ãƒ–
 		int i=0;
 		for(i=0;i<9;i++){
 			if(i==4) {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}else {
-					System.out.print(" ");
+					System.out.print("â–¡");
 				}
 			}
 		System.out.println(" ");
 			i=0;
 			for(i=0;i<9;i++){
 			if(i<3 || i>5) {
-					System.out.print(" ");
+					System.out.print("â–¡");
 				}else {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}
 			}
 		System.out.println(" ");
 			i=0;
 			for(i=0;i<9;i++){
 			if(i<2 || i>6) {
-					System.out.print(" ");
+					System.out.print("â–¡");
 				}else {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}
 			}
 		System.out.println(" ");
 			i=0;
 			for(i=0;i<9;i++){
 			if(i<1 || i>7) {
-				System.out.print(" ");
+				System.out.print("â–¡");
 				}else {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}
 			}
 		System.out.println(" ");
 			i=0;
 			for(i=0;i<9;i++){
 			if(i<2 || i>6) {
-				System.out.print(" ");
+				System.out.print("â–¡");
 				}else {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}
 			}
 		System.out.println(" ");
 			i=0;
 			for(i=0;i<9;i++){
 			if(i<3 || i>5) {
-					System.out.print(" ");
+					System.out.print("â–¡");
 				}else {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}
 			}
 		System.out.println(" ");
 			i=0;
 			for(i=0;i<9;i++){
 			if(i==4) {
-					System.out.print("¡");
+					System.out.print("â– ");
 				}else {
-					System.out.print(" ");
+					System.out.print("â–¡");
 				}
 			}
 			
